@@ -7,8 +7,6 @@
   
 O objetivo do teste é criar campo auto complete integrado com uma api de nomes.
 
-O código inicial da aplicação pode ter erros que devem ser resolvidas pelo candidato.
-
 Campo auto-complete:
 - Deve ser feito um request para API: GET https://run.mocky.io/v3/56fc1cdd-af13-460b-9ab7-01a6fcf3ca4d
 - O retorno da API é uma lista de nomes, essa lista deve ser utilizada para fazer o auto complete em memória
@@ -23,6 +21,7 @@ Caso eu digite a letra "A" no campo, deve aparecer uma lista na tela com os iten
 <details>
   <summary>Back-end:</summary>
 </details>
+
 ## Onde e como desenvolver? 
 Pode ser desenvolvido em qualquer IDE.
 ## Como realizar a entrega do problema? 
